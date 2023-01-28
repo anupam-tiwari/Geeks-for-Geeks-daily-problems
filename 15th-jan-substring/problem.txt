@@ -1,0 +1,13 @@
+Given a binary string S consists only of 0s and 1s. The task is to calculate the number of substrings that have more 1s than 0s
+
+Input:
+S = "011"
+Output: 4
+Explanation: There are 4 substring which 
+has more 1s than 0s. i.e "011","1","11" and "1
+
+Input:
+S = "0000"
+Output: 0
+Explanation: There is no substring
+which has more 1s than 0s
